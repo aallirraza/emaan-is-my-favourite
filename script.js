@@ -4,7 +4,7 @@
 
 // Grouped Photo Collections with Support for Single & Multiple Photos
 const PHOTOS = [
-  { imgs: ["picture1.jpg"], c: "Us matching on Eid hehe" },
+  { imgs: ["picture1.JPG"], c: "Us matching on Eid hehe" },
   { imgs: ["picture2.jpg", "picture6.jpg"], c: "My favourite pictures of us" },
   { imgs: ["picture3.jpg"], c: "you looking like an absolute smokeshow" },
   { imgs: ["picture4.jpg", "picture5.jpg"], c: "Us being goofy" },
